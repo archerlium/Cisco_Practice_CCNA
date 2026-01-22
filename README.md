@@ -2,4 +2,5 @@ This project simulates an enterprise network built in Cisco Packet Tracer as pre
 
 The topology includes multiple departments (IT, Sales, Customer Support, Offices, Database Management, and Public Wi-Fi), with controlled inter-network communication, router-on-a-stick configurations, and security-focused access restrictions. The project demonstrates practical Cisco IOS configuration, troubleshooting, and real-world network design concepts.
 
+
 ![Cisco CCNA Practice Lab ](cisco-project.jpg)
